@@ -12,6 +12,15 @@ last_modified_at: 2025-01-20
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Info</title>
     <style>
+        body {
+            background: url('/web_resources/outer-space.jpg') center center / cover fixed no-repeat;
+            color: #f5f5f5;
+        }
+        .page__content {
+            background: rgba(0, 0, 0, 0.55);
+            padding: 1.5rem;
+            border-radius: 10px;
+        }
         .row {
             text-align: center;
             width: 100%;
