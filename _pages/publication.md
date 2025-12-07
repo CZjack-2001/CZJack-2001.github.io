@@ -60,7 +60,6 @@ comments: True
 {% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
 ### 2024
 <hr>
-{% include publication/2024/paper005_FPM_3d_coordinate_mapping_ISARC.md %}
 {% include publication/2024/paper004_shear_stud_welding_patent_002.md %}
 ### 2022
 <hr>
