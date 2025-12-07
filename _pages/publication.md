@@ -65,7 +65,6 @@ comments: True
 ### 2022
 <hr>
 {% include publication/2022/paper003_HFUT_Li_De_An.md %}
-{% include publication/2022/paper002_hans_Tang_Li_Heng.md %}
 {% include publication/2022/paper001_patent_001.md %}
 
 
