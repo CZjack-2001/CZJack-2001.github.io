@@ -14,13 +14,15 @@ last_modified_at: 2025-01-20
     <style>
         body {
             background: url('/web_resources/outer-space.jpg') center center / cover fixed no-repeat;
-            color: #f5f5f5;
+            color: #f2f7ff;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
         }
         .page__content {
-            background: rgba(0, 0, 0, 0.55);
-            padding: 1.5rem;
-            border-radius: 10px;
+            background: transparent;
+            padding: 0;
         }
+        a { color: #d6e8ff; }
+        a:hover { color: #ffffff; }
         .row {
             text-align: center;
             width: 100%;
@@ -44,11 +46,11 @@ last_modified_at: 2025-01-20
 <body>
     <div class="row"><strong>Huiguang Wang</strong></div>
     <!-- <div class="row">
-        <div>D.O.B. Sep. 17, 2000</div>
-        <div>Tel: (+86) 19966505051</div>
+        <div>D.O.B. Aug. 16, 2001</div>
+        <div>Tel: (+86) 15074464978</div>
     </div> -->
     <div class="row">
-        <div>D.O.B. Sep. 17, 2000</div>
+        <div>D.O.B. Aug. 16, 2001</div>
         <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/CZjack-2001">GitHub</a> / <a href="https://huiguangwang.top/file/CV_ChengZhang.pdf">PDF</a></div>
     </div>
     <div class="row">
@@ -63,7 +65,7 @@ last_modified_at: 2025-01-20
 
 
 
-## Overview
+<!--## Overview
 <div style="text-align: justify;">
   <p>As a highly motivated and collaborative student majoring in engineering, 
   I have a strong interest in <b>construction robotics</b>, and my current research 
@@ -71,46 +73,44 @@ last_modified_at: 2025-01-20
   gained valuable experience in robotic arms, depth cameras, and machine learning. 
   During my Master's studies, I participated in three construction robotics projects 
   and published nine papers and patents, accumulating approximately <b>￥1,000,000</b>.</p>
-</div>
+</div>-->
 
 ## Educational Background
 
 <div class="flex-container">
     <div class="left"><b>Hunan University (HNU)</b></div>
-    <div class="right">Sep.2022–Present</div>
+    <div class="right">Sep.2023–Present</div>
 </div>
 
 <div style="text-align: justify;">
   <ul>
     <li>Master of Structural Engineering</li>
-    <li>GPA:3.4 / 4.0</li>
+    <!--<li>GPA:3.42 / 4.0</li>-->
   </ul>
 </div>
 
 
 
 <div class="flex-container">
-    <div class="left"><b>Hefei University of Technology (HFUT)</b></div>
-    <div class="right">Sep.2018–Jun.2022</div>
+    <div class="left"><b>Sichuan University (SCU)</b></div>
+    <div class="right">Sep.2019–Jun.2023</div>
 </div>
 
 <div style="text-align: justify;">
   <ul>
     <li>Bachelor of Civil Engineering</li>
-    <li>GPA:3.7 / 4.0 (Ranking: 2 / 252), Average Score:89.27</li>
+    <!--<li>GPA:3.7 / 4.0 (Ranking: 2 / 252), Average Score:89.27</li>-->
   </ul>
 </div>
 
 ## Research Interests
 
-
-
 <div style="text-align: justify;">
   <ul>
-    <li>Intelligent Construction</li>
-    <li>Robotic Arm/Welding robot</li>
-    <li>Applied Machine Learning</li>
-    <li>Vision-based robotic arm manipulation</li>
+    <li>Computer Vision & Photogrammetry</li>
+    <li>UAV Applications</li>
+    <li>Robotics & Path Planning</li>
+    <li>Prefabricated Bridge Quality Control</li>
   </ul>
 </div>
 
