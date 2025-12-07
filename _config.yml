@@ -17,16 +17,16 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Huiguang's website"
+title                    : "Cheng's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wang Huiguang"
-description              : "A person who pays his attention to robotic arm manipulation based on vision."
+name                     : "Cheng Zhang"
+description              : "A prospective doctoral student who pays his attention to computer vision."
 url                      : "https://huiguangwang.top"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/web_resources/fav.png"
+logo                     : "/web_resources/mc.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -36,7 +36,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : huiguangwang
+    shortname            : Cheng
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Huiguang (王慧光)"
-  avatar           : "/web_resources/huiguang1.png"
-  bio              : "A person who pays his attention to robotic arm manipulation based on vision."
-  location         : "Canada"
+  name             : "Cheng Zhang (张程)"
+  avatar           : "/web_resources/zc.jpg"
+  bio              : "A prospective doctoral student who pays his attention to computer vision."
+  location         : "Changsha, Hunan, China"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:huiguang.wang@mail.mcgill.ca"
+      url: "mailto:zc23@hnu.edu.cn"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://huiguangwang.top/"
