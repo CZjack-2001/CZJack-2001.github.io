@@ -33,7 +33,7 @@ last_modified_at: 2025-01-20
 
 
 <body>
-    <div class="row"><strong>Huiguang Wang</strong></div>
+    <div class="row"><strong>Cheng Zhang</strong></div>
     <!-- <div class="row">
         <div>D.O.B. Aug. 16, 2001</div>
         <div>Tel: (+86) 15074464978</div>
@@ -109,21 +109,19 @@ last_modified_at: 2025-01-20
 (*) means corresponding author
 <div style="text-align: justify;">
   <ol>
-    <li>Lu Deng, Yu Dai, Shaopeng Xu, Ran Cao, <b>Huiguang Wang*,</b> <i>Automated Complex Joint Welding for Rebar Cages in Prefabricated Concrete Shear Walls</i>. (Under Review)</li>
-    <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Jingjing Guo, <i>Automated Point Positioning for Robotic Spot Welding Using Integrated 2D Drawings and Structured Light Cameras</i>, <b>Automation in Construction</b>. (Journal Article, SCI, Q1, IF=11.5)</li>
-    <li>Mi Liu, Jingjing Guo, Lu Deng, Songyue Wang, <b>Huiguang Wang</b>, <i>Enhanced Vision-based 6-DoF Pose Estimation for Robotic Rebar Tying</i>, <b>Automation in Construction</b>. (Journal Article, SCI, Q1, IF=11.5)</li>
-    <li>Shaopeng Xu, <b>Huiguang Wang</b>, Xiaoyi Lv, Lu Deng, Bo Jin, Jingjing Guo, <i>Vision-Guided Camera Pose Estimation for Robotic Rebar Tying</i>, <b>2025 International Symposium on Automation and Robotics in Construction</b>. (Conference, EI)</li>
-    <li><b>Huiguang Wang</b>, Lu Deng, Ran Cao, Jingjing Guo, <i>Fast-Pixel-Matching Algorithm for Automated Shear Stud Welding Based on the Integration of 2D Drawings and Structured Light Cameras</i>, <b>2024 International Symposium on Automation and Robotics in Construction</b>. (Conference, EI)</li>
-    <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Xun Zuo, <i>A Welding Method and System for Steel-concrete Composite Structure Connectors</i>, CN 117102725 B, 2024-01-09. (Patent)</li>
-    <li>Lu Deng, <b>Huiguang Wang</b>, Ran Cao, Jingjing Guo, <i>A Vision-guided Welding Method, Device, Medium and Robotic Arm for Rebar Cage</i>. (Patent)</li>
-    <li>Dean Li, Zuocai Wang, <b>Huiguang Wang</b>, Dashuai Jin, <i>Vibration Control for Vehicle-bridge Coupling of Double Main Girder Steel-concrete Composite Beam Bridge Based on PTMD</i>, <b>Journal of Hefei University of Technology (Natural Science)</b>, 2022-09. (Journal Article)</li>
-    <li>Liheng Tang, <b>Huiguang Wang</b>, Zihao Zhou, Shuanglong Yan, Zuocai Wang, <i>Research of the Comfort Level of Prefabricated Composite Steel Plate Beam Bridge Based on the Vibration Effect of Driving Vehicle</i>, <b>Hans Journal of Civil Engineering</b>, 2022-11. (Journal Article)</li>
-    <li>Zuocai Wang, Xiaotong Sun, Zihao Zhou, Liheng Tang, <b>Huiguang Wang</b>, <i>An Energy-consuming Support Device for Preventing Web Buckling of Steel Plate Composite Girder Bridges</i>, CN 216838937 U, 2022-06-28. (Patent)</li>
+    <li>Lu Deng, <b>Cheng Zhang,</b>, Weiqi Mao, Feng Zhang, Jingjing Guo* , <i>UAV-assisted bridge alignment measurement using enhanced small target detection and adaptive ellipse fitting [J]</i>, <b>Automation in Construction</b>, 2025, 176: 106258. (Journal Article, SCI, Q1, IF=11.5)</li>
+    <li>Feng Zhang, Jingjing Guo, <b>Cheng Zhang</b>, Lu Deng*, <i>Robotic Technology Adoption in Prefabricated and Modular Construction: Integrating TOE Factors and Stakeholder Interaction Quality [J]</i>, <b>Engineering, Construction and Architectural Management</b>. (Accept)</li>
+    <li>Lizhi Long, Wenyao Liu, Shaopeng Xu, Peng Shi, <b>Cheng Zhang</b>, Lu Deng*, <i>Automated alignment deviation measurement for precast concrete assembly using point cloud-image fusion [J]</i>, <b>Automation in Construction</b>, 2025, 180: 106540. (Journal Article, SCI, Q1, IF=11.5)</li>
+    <li>徐剑, 毛江鸿, <b>张程</b>, 方坤, 朱宝莹, <i>混凝土拌合物中氯离子的电化学提取方法及效果[J]</i>, <b>低温建筑技术, 2022, 44(03): 149-153+158</b>.</li>
+    <li>邓露, <b>张程</b>, 郭晶晶, <i>一种基于虚拟仿真与无人机自主飞行的桥梁线形测量方法、装置、设备及介质[P]</i>, CN 120070537 B, 2025-07-04.</li>
+    <li>邓露, <b>张程</b>, 郭晶晶, 曹然, <i>一种装配式桥梁的线形管理方法、装置及介质[P]</i>, CN 119245609 B, 2025-03-14.</li>
+    <li>邓露, <b>张程</b>, 郭晶晶, 曹然, <i>一种智能桥梁线形检测方法、装置、设备及介质[P]</i>, CN 118628479 B, 2024-10-15.</li>
+    <li>梁英, 曾庆昊, 黄俪嘉, <b>张程</b>, 袁绍军， <i>一种基于压电的自供电臭气处理及检测一体化设备[P]</i>, CN 113680183 B, 2023-08-26.</li>
   </ol>
 </div>
 
 
-## Research Experience
+<!--## Research Experience
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -365,7 +363,7 @@ last_modified_at: 2025-01-20
 
 <div style="text-align: justify;">
 <p><b>Outline:</b> As a member of the structure design department, the main work content includes bidding for two municipal projects and drawing structural design drawings. I systematically learned design software like PKPM and Midas Gen.</p>
-</div>
+</div>-->
 
 ## Awards & Honors
 <div style="text-align: justify;color:#1772d0;">
@@ -374,84 +372,55 @@ last_modified_at: 2025-01-20
 
 
 <div class="flex-container">
-    <div class="left">The First Prize Scholarship in 2024</div>
-    <div class="right">Oct. 2024</div>
+    <div class="left">湖南大学2024-2025学年比亚迪奖学金</div>
+    <div class="right">2025.12</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">The Second Prize Scholarship in 2023</div>
-    <div class="right">Oct. 2023</div>
+    <div class="left">湖南大学2024-2025学年优秀学生</div>
+    <div class="right">2025.12</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">The First Prize Scholarship in 2022</div>
-    <div class="right">Oct. 2022</div>
+    <div class="left">湖南大学2024-2025学年一等学业奖学金</div>
+    <div class="right">2025.12</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">The First Prize Scholarship in 2021</div>
-    <div class="right">Dec. 2021</div>
+    <div class="left">湖南大学工程创新设计奖学金</div>
+    <div class="right">2025.01</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">The First Prize Scholarship in 2020</div>
-    <div class="right">Dec. 2020</div>
+    <div class="left">湖南大学2022-2023学年一等学业奖学金</div>
+    <div class="right">2023.12</div>
 </div>
 
 <div class="flex-container">
-    <div class="left"><b>National Scholarship</b></div>
-    <div class="right">Dec. 2020</div>
+    <div class="left"><b>四川大学优秀毕业生</b></div>
+    <div class="right">2022.10</div>
 </div>
 
 <div class="flex-container">
-    <div class="left"><b>The First Prize of the "Industrial and Civil Construction Scholarship for Class of 1977" Civil Engineering Excellence Award</b></div>
-    <div class="right">Dec. 2020</div>
+    <div class="left"><b>四川大学2021-2022学年一等奖学金</b></div>
+    <div class="right">2022.10</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">The Second Prize Scholarship in 2019</div>
-    <div class="right">Dec. 2019</div>
+    <div class="left">四川大学2020-2021学年二等奖学金</div>
+    <div class="right">2021.10</div>
 </div>
 
 <div class="flex-container">
-    <div class="left">Individual Scholarship</div>
-    <div class="right">Dec. 2019</div>
-</div>
-
-<div class="flex-container">
-    <div class="left"><b>Outstanding Graduate of Anhui Province</b></div>
-    <div class="right">Mar. 2022</div>
-</div>
-
-<div class="flex-container">
-    <div class="left">Outstanding Graduate of Hefei University of Technology</div>
-    <div class="right">Mar. 2022</div>
-</div>
-
-<div class="flex-container">
-    <div class="left">Merit Student in 2021</div>
-    <div class="right">Dec. 2021</div>
-</div>
-
-<div class="flex-container">
-    <div class="left">Outstanding Merit Student in 2020</div>
-    <div class="right">Dec. 2020</div>
-</div>
-
-<div class="flex-container">
-    <div class="left">Merit Student in 2020</div>
-    <div class="right">Dec. 2020</div>
-</div>
-
-<div class="flex-container">
-    <div class="left">Merit Student in 2019</div>
-    <div class="right">Dec. 2019</div>
+    <div class="left">四川大学2019-2020学年优秀学生</div>
+    <div class="right">2020.10</div>
 </div>
 
 
 
 
-<div style="text-align: justify;color:#1772d0;margin-top: 20px;">
+
+<!--<div style="text-align: justify;color:#1772d0;margin-top: 20px;">
   <b>Academic Competition Awards</b>
 </div>
 
@@ -474,10 +443,10 @@ last_modified_at: 2025-01-20
 <div class="flex-container">
     <div class="left">The Third Prize in The National Undergraduate Physics Experiment Innovation Competition HFUT</div>
     <div class="right">Oct. 2020</div>
-</div>
+</div>-->
 
-## Additional Information
+<!--## Additional Information
 <div style="text-align: justify;">
   <b>Programming:</b> Python, Matlab, C++, C#, Markdown, HTML<br>
   <b>Hardware:</b> Robotic arm (UR10, RM65-B, Han’s E15), depth camera (Mech-Eye NANO / NANO ULTRA / DEEP, PS800, D435i)
-</div>
+</div>-->
