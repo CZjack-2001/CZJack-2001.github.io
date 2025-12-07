@@ -48,7 +48,7 @@ last_modified_at: 2025-01-20
     </div> -->
     <div class="row">
         <div>D.O.B. Aug. 16, 2001</div>
-        <div><a href="https://scholar.google.com/citations?user=kK19w24AAAAJ&hl=zh-CN">Google Scholar</a> / <a href="https://github.com/CZjack-2001">GitHub</a> / <a href="https://huiguangwang.top/file/CV_ChengZhang.pdf">PDF</a></div>
+        <div><a href="https://scholar.google.com/citations?user=ZaGG64oAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> / <a href="https://github.com/CZjack-2001">GitHub</a> / <a href="https://czjack-2001.github.io/file/CV_ChengZhang.pdf">PDF</a></div>
     </div>
     <div class="row">
         <div>Email: <a href="mailto:damixuezhang01@gmail.com">damixuezhang01@gmail.com</a></div>
@@ -395,7 +395,7 @@ last_modified_at: 2025-01-20
 </div>
 
 <div class="flex-container">
-    <div class="left">湖南大学工程创新设计奖学金</div>
+    <div class="left">湖南大学2022-2023学年工程创新设计奖学金</div>
     <div class="right">2025.01</div>
 </div>
 
@@ -405,12 +405,12 @@ last_modified_at: 2025-01-20
 </div>
 
 <div class="flex-container">
-    <div class="left"><b>四川大学优秀毕业生</b></div>
-    <div class="right">2022.10</div>
+    <div class="left">四川大学2022-2023学年优秀毕业生</div>
+    <div class="right">2023.04</div>
 </div>
 
 <div class="flex-container">
-    <div class="left"><b>四川大学2021-2022学年一等奖学金</b></div>
+    <div class="left">四川大学2021-2022学年一等奖学金</div>
     <div class="right">2022.10</div>
 </div>
 
