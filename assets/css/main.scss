@@ -59,7 +59,7 @@ body.layout--home {
 
 /* Transparent deep-blue shell for nav/content on home */
 body.layout--home .masthead {
-  background: rgba(6, 18, 56, 0.75);
+  background: rgba(6, 18, 56, 0.85);
   border-bottom: 1px solid rgba(255, 255, 255, 0.18);
 }
 
@@ -73,6 +73,38 @@ body.layout--home .masthead .site-title:visited {
 body.layout--home .masthead a:hover,
 body.layout--home .masthead a:focus {
   color: #ffffff;
+}
+
+/* Home page nav links/search colors */
+body.layout--home .greedy-nav {
+  background: transparent;
+}
+
+body.layout--home .greedy-nav a {
+  color: #f4f7ff;
+}
+
+body.layout--home .greedy-nav a:hover,
+body.layout--home .greedy-nav a:focus {
+  color: #ffffff;
+}
+
+body.layout--home .greedy-nav__toggle {
+  color: #f4f7ff;
+}
+
+body.layout--home .search__toggle,
+body.layout--home .search__toggle:visited {
+  color: #f4f7ff;
+}
+
+body.layout--home .search__toggle:hover,
+body.layout--home .search__toggle:focus {
+  color: #ffffff;
+}
+
+body.layout--home .site-logo img {
+  filter: brightness(10); /* keep logo visible on dark background */
 }
 
 body.layout--home .archive {
