@@ -75,8 +75,20 @@ last_modified_at: 2025-01-20
 ## Educational Background
 
 <div class="flex-container">
+    <div class="left"><b>National University of Defense Technology(NUDT)
+</b></div>
+    <div class="right">Sep.2026–Jun.2030</div>
+</div>
+
+<div style="text-align: justify;">
+  <ul>
+    <li>Doctor of Aeronautics and Astronautics Science and Technology</li>
+  </ul>
+</div>
+
+<div class="flex-container">
     <div class="left"><b>Hunan University (HNU)</b></div>
-    <div class="right">Sep.2023–Present</div>
+    <div class="right">Sep.2023–Jun.2026</div>
 </div>
 
 <div style="text-align: justify;">
@@ -85,8 +97,6 @@ last_modified_at: 2025-01-20
     <!--<li>GPA:3.42 / 4.0</li>-->
   </ul>
 </div>
-
-
 
 <div class="flex-container">
     <div class="left"><b>Sichuan University (SCU)</b></div>

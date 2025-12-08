@@ -21,10 +21,10 @@
 
   <div style="text-align: justify; flex: 1 1 200px;">
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
-      <b>An automated welding seam extraction and path planning method for steel box girders based on 3D vision (Under Review)</b>
+      <b>AEnhanced binocular stereo vision-based localization measurements for prefabricated wall panels installation (Under Review)</b>
     </span>
     <p>       
-      Jiayao Zou, Wenyao Liu, <strong>Huiguang Wang</strong>, Yu Dai, Feng Zhang, Lu Deng<sup>*</sup><br>
+      Lizhi Long, Wenyao Liu, <strong>Cheng Zhang</strong>, Shaopeng Xu, Peng Shi, Lu Deng* <br>
     </p>
   </div>
 </div>

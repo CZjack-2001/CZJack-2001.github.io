@@ -49,13 +49,10 @@ comments: True
 ### 2025
 <hr>
 {% include publication/2025/paper015_steel_plate_welding_001.md %}
-{% include publication/2025/paper014_unsupervised_learing_segmentation_for_rebars.md %}
 {% include publication/2025/paper013_automatically_labeling_rebar_tying_003.md %}
 {% include publication/2025/paper012_camera_pose_adjustment.md %}
 {% include publication/2025/paper011_pose_decoupling_rebar_tying_002.md %}
 {% include publication/2025/paper010_rebar_cage_welding_001.md %}
-{% include publication/2025/paper009_camera_pose_adjustment_ISARC.md %}
-{% include publication/2025/paper008_rebar_tying_001_liu_mi.md %}
 {% include publication/2025/paper007_FPM_3d_coordinate_mapping.md %}
 {% include publication/2025/paper006_rebar_cage_welding_patent_003.md %}
 ### 2024
