@@ -51,77 +51,79 @@ search: false
 }
 }
 
-/* Home page background and overlay styling */
-body.layout--home {
+/* Global background and overlay styling (apply to all pages) */
+body {
   background: url("/web_resources/outer-space.jpg") center center / cover fixed no-repeat;
   color: #e8f2ff;
 }
 
-/* Transparent deep-blue shell for nav/content on home */
-body.layout--home .masthead {
+/* Transparent deep-blue shell for nav/content */
+.masthead {
   background: rgba(6, 18, 56, 0.85);
   border-bottom: 1px solid rgba(255, 255, 255, 0.18);
 }
 
-body.layout--home .masthead,
-body.layout--home .masthead a,
-body.layout--home .masthead .site-title,
-body.layout--home .masthead .site-title:visited {
+.masthead,
+.masthead a,
+.masthead .site-title,
+.masthead .site-title:visited {
   color: #f4f7ff;
 }
 
-body.layout--home .masthead a:hover,
-body.layout--home .masthead a:focus {
+.masthead a:hover,
+.masthead a:focus {
   color: #ffffff;
 }
 
-/* Home page nav links/search colors */
-body.layout--home .greedy-nav {
+/* Nav links/search colors */
+.greedy-nav {
   background: transparent;
 }
 
-body.layout--home .greedy-nav a {
+.greedy-nav a {
   color: #f4f7ff;
+  font-size: 20px;
 }
 
-body.layout--home .greedy-nav a:hover,
-body.layout--home .greedy-nav a:focus {
+.greedy-nav a:hover,
+.greedy-nav a:focus {
   color: #ffffff;
 }
 
-body.layout--home .greedy-nav__toggle {
+.greedy-nav__toggle {
   color: #f4f7ff;
 }
 
-body.layout--home .search__toggle,
-body.layout--home .search__toggle:visited {
+.search__toggle,
+.search__toggle:visited {
   color: #f4f7ff;
 }
 
-body.layout--home .search__toggle:hover,
-body.layout--home .search__toggle:focus {
+.search__toggle:hover,
+.search__toggle:focus {
   color: #ffffff;
 }
 
-body.layout--home .site-logo img {
+.site-logo img {
   filter: brightness(10); /* keep logo visible on dark background */
 }
 
-/* Home sidebar author links/icons to white */
-body.layout--home .author__urls-wrapper a,
-body.layout--home .author__urls-wrapper .fa,
-body.layout--home .author__urls-wrapper .fab,
-body.layout--home .author__urls-wrapper .fas,
-body.layout--home .author__urls-wrapper .far {
+/* Sidebar author links/icons to white */
+.author__urls-wrapper a,
+.author__urls-wrapper .fa,
+.author__urls-wrapper .fab,
+.author__urls-wrapper .fas,
+.author__urls-wrapper .far {
   color: #f4f7ff;
 }
 
-body.layout--home .author__urls-wrapper a:hover,
-body.layout--home .author__urls-wrapper a:focus {
+.author__urls-wrapper a:hover,
+.author__urls-wrapper a:focus {
   color: #ffffff;
 }
 
-body.layout--home .archive {
+/* Content shells for archive and page content */
+.archive {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
   padding: 1.5rem;
@@ -129,16 +131,34 @@ body.layout--home .archive {
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
 }
 
-body.layout--home .archive a {
+.archive a {
   color: #cce0ff;
 }
 
-body.layout--home .archive a:hover,
-body.layout--home .archive a:focus {
+.archive a:hover,
+.archive a:focus {
   color: #ffffff;
 }
 
-body.layout--home .page__footer {
+/* Apply same overlay to single page wrapper */
+.page {
+  background: rgba(6, 18, 56, 0.72);
+  color: #e8f2ff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+}
+
+.page a {
+  color: #cce0ff;
+}
+
+.page a:hover,
+.page a:focus {
+  color: #ffffff;
+}
+
+.page__footer {
   background: rgba(6, 18, 56, 0.75);
   color: #e8f2ff;
 }
