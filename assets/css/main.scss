@@ -50,3 +50,49 @@ search: false
   }
 }
 }
+
+/* Home page background and overlay styling */
+body.layout--home {
+  background: url("/web_resources/outer-space.jpg") center center / cover fixed no-repeat;
+  color: #e8f2ff;
+}
+
+/* Transparent deep-blue shell for nav/content on home */
+body.layout--home .masthead {
+  background: rgba(6, 18, 56, 0.75);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+body.layout--home .masthead,
+body.layout--home .masthead a,
+body.layout--home .masthead .site-title,
+body.layout--home .masthead .site-title:visited {
+  color: #f4f7ff;
+}
+
+body.layout--home .masthead a:hover,
+body.layout--home .masthead a:focus {
+  color: #ffffff;
+}
+
+body.layout--home .archive {
+  background: rgba(6, 18, 56, 0.72);
+  color: #e8f2ff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+}
+
+body.layout--home .archive a {
+  color: #cce0ff;
+}
+
+body.layout--home .archive a:hover,
+body.layout--home .archive a:focus {
+  color: #ffffff;
+}
+
+body.layout--home .page__footer {
+  background: rgba(6, 18, 56, 0.75);
+  color: #e8f2ff;
+}
