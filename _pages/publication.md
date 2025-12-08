@@ -10,16 +10,16 @@ comments: True
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);">Journal papers</a></div>
-    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgb(0, 0, 0);" id="paper-count">(6)</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgba(255, 255, 255, 1);">Journal papers</a></div>
+    <div><a href="#papers-and-patents" style="text-decoration: none; color:rgba(255, 255, 255, 1);" id="paper-count">(6)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">Conference papers</a></div>
-    <div><a href="#thesis" style="text-decoration: none; color:rgb(0, 0, 0);">(0)</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgba(255, 255, 255, 1);">Conference papers</a></div>
+    <div><a href="#thesis" style="text-decoration: none; color:rgba(255, 255, 255, 1);">(0)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">Patents</a></div>
-    <div><a href="#design-work" style="text-decoration: none; color:rgb(0, 0, 0);">(4)</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgba(255, 255, 255, 1);">Patents</a></div>
+    <div><a href="#design-work" style="text-decoration: none; color:rgba(255, 255, 255, 1);">(4)</a></div>
   </div>
   
 </div>
@@ -32,16 +32,16 @@ comments: True
 
 <div id="categories" style="margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; font-size: 16px; line-height: 24px;">
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">2025</a></div>
-    <div><a href="#2025" style="text-decoration: none; color:rgb(0, 0, 0);">(7)</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgba(255, 255, 255, 1);">2025</a></div>
+    <div><a href="#2025" style="text-decoration: none; color:rgba(255, 255, 255, 1);">(7)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">2024</a></div>
-    <div><a href="#2024" style="text-decoration: none; color:rgb(0, 0, 0);">(1)</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgba(255, 255, 255, 1);">2024</a></div>
+    <div><a href="#2024" style="text-decoration: none; color:rgba(255, 255, 255, 1);">(1)</a></div>
   </div>
   <div style="flex: 0 0 calc(33.333% - 20px); display: flex; justify-content: space-between; border-bottom: 1px solid #ccc; padding-bottom: 10px; box-sizing: border-box;">
-    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">2022</a></div>
-    <div><a href="#2022" style="text-decoration: none; color:rgb(0, 0, 0);">(2)</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgba(255, 255, 255, 1);">2022</a></div>
+    <div><a href="#2022" style="text-decoration: none; color:rgba(255, 255, 255, 1);">(2)</a></div>
   </div>
 </div>
 <b>* means corresponding author</b>
@@ -223,7 +223,7 @@ comments: True
 
 <!-- Back to Top Button -->
 <div style="position: fixed; right: 20px; top: 500px;">
-  <a href="#" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.3);">
+  <a href="#" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 4px; font-size: 14px; box-shadow: 0 1px 3px rgba(255, 255, 255, 0.3);">
     Back to Top
   </a>
 </div>

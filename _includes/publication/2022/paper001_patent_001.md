@@ -9,7 +9,7 @@
     <span style="color:#1772d0; display: block; margin-bottom: 10px;">
       <b>一种基于压电的自供电臭气处理及检测一体化设备</b><br>(NO. CN 113680183 B, 2022-08-26)
     </span>
-    <p>梁英，曾庆吴，黄儒嘉，<strong>张程</strong>，袁绍军
+    <p>梁英，曾庆吴，黄俪嘉，<strong>张程</strong>，袁绍军
     <br>
       <a href="/web_resources/publication/papers/2022一种基于压电的自供电臭气处理及检测一体化设备.pdf"><b>[PDF]</b></a>
     </p>
