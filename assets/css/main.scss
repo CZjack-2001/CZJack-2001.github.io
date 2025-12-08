@@ -126,7 +126,7 @@ body {
 .archive {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 1.5rem;
+  padding: 1.5rem 2rem; /* add equal horizontal padding */
   border-radius: 12px;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
 }
@@ -144,7 +144,7 @@ body {
 .page {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 1.5rem;
+  padding: 1.5rem 2rem; /* add equal horizontal padding */
   border-radius: 12px;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
 }
