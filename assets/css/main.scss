@@ -126,7 +126,7 @@ body {
 .archive {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 0.3rem 2rem !important; /* enforce equal horizontal padding */
+  padding: 0.2rem 2rem !important; /* enforce equal horizontal padding */
   max-width: 1000px;
   margin-top: 1.25rem !important; /* uniform gap below nav */
   margin-left: auto;
@@ -148,7 +148,7 @@ body {
 .page {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 0.3rem 2rem !important; /* enforce equal horizontal padding */
+  padding: 0.2rem 2rem !important; /* enforce equal horizontal padding */
   max-width: 1000px;
   margin-top: 1.25rem !important; /* uniform gap below nav */
   margin-left: auto;
@@ -178,4 +178,17 @@ body {
 .page__footer {
   background: rgba(6, 18, 56, 0.75);
   color: #e8f2ff;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Projects page custom padding */
+.projects-page .page,
+.projects-page .page__content {
+  padding: 1.5rem 2.5rem !important;
 }
