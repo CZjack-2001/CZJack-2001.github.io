@@ -126,7 +126,11 @@ body {
 .archive {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 1.5rem 2rem; /* add equal horizontal padding */
+  padding: 0.3rem 2rem !important; /* enforce equal horizontal padding */
+  max-width: 1000px;
+  margin-top: 1.25rem !important; /* uniform gap below nav */
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 12px;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
 }
@@ -144,9 +148,22 @@ body {
 .page {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
-  padding: 1.5rem 2rem; /* add equal horizontal padding */
+  padding: 0.3rem 2rem !important; /* enforce equal horizontal padding */
+  max-width: 1000px;
+  margin-top: 1.25rem !important; /* uniform gap below nav */
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 12px;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+}
+
+/* Ensure inner content also keeps padding and centering */
+.page__content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2rem !important;
+  box-sizing: border-box;
 }
 
 .page a {
