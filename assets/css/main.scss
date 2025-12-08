@@ -107,6 +107,20 @@ body.layout--home .site-logo img {
   filter: brightness(10); /* keep logo visible on dark background */
 }
 
+/* Home sidebar author links/icons to white */
+body.layout--home .author__urls-wrapper a,
+body.layout--home .author__urls-wrapper .fa,
+body.layout--home .author__urls-wrapper .fab,
+body.layout--home .author__urls-wrapper .fas,
+body.layout--home .author__urls-wrapper .far {
+  color: #f4f7ff;
+}
+
+body.layout--home .author__urls-wrapper a:hover,
+body.layout--home .author__urls-wrapper a:focus {
+  color: #ffffff;
+}
+
 body.layout--home .archive {
   background: rgba(6, 18, 56, 0.72);
   color: #e8f2ff;
