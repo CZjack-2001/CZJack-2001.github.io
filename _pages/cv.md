@@ -127,7 +127,7 @@ last_modified_at: 2025-01-20
 (*) means corresponding author
 <div style="text-align: justify;">
   <ol>
-    <li>Lu Deng, <b>Cheng Zhang,</b>, Weiqi Mao, Feng Zhang, Jingjing Guo* , <i>UAV-assisted bridge alignment measurement using enhanced small target detection and adaptive ellipse fitting [J]</i>, <b>Automation in Construction</b>, 2025, 176: 106258. (SCI, Q1, IF=11.5)</li>
+    <li>Lu Deng, <b>Cheng Zhang</b>, Weiqi Mao, Feng Zhang, Jingjing Guo* , <i>UAV-assisted bridge alignment measurement using enhanced small target detection and adaptive ellipse fitting [J]</i>, <b>Automation in Construction</b>, 2025, 176: 106258. (SCI, Q1, IF=11.5)</li>
     <li>Feng Zhang, Jingjing Guo, <b>Cheng Zhang</b>, Lu Deng*, <i>Robotic Technology Adoption in Prefabricated and Modular Construction: Integrating TOE Factors and Stakeholder Interaction Quality [J]</i>, <b>Engineering, Construction and Architectural Management</b>. (Accept)</li>
     <li>Lizhi Long, Wenyao Liu, Shaopeng Xu, Peng Shi, <b>Cheng Zhang</b>, Lu Deng*, <i>Automated alignment deviation measurement for precast concrete assembly using point cloud-image fusion [J]</i>, <b>Automation in Construction</b>, 2025, 180: 106540. (SCI, Q1, IF=11.5)</li>
     <li>徐剑, 毛江鸿, <b>张程</b>, 方坤, 朱宝莹, <i>混凝土拌合物中氯离子的电化学提取方法及效果[J]</i>, <b>低温建筑技术, 2022, 44(03): 149-153+158</b>.</li>
