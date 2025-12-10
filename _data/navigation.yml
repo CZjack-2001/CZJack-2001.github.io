@@ -12,8 +12,8 @@ main:
   #   url: /award/
   - title: "Videos"
     url: /video/
-  - title: "Posts"
-    url: /post/
+  # - title: "Posts"
+  #   url: /post/
   - title: "Resources"
     url: /resource/
   - title: "Contact"
